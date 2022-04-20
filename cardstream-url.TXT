@@ -1,0 +1,6 @@
+Cardstream URLs:
+
+Direct: https://gw1.tponlinepayments.com/direct/
+
+Hosted: https://gw1.tponlinepayments.com/paymentform/
+
