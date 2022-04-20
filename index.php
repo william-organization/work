@@ -8,6 +8,6 @@
 <label>Amount (in minor currency, i.e. &pound;12.34 = 1234)<br>
 <input type="text" name="Amount" value="1234"><br>
 <input type="submit" value="Continue">
-git updated by git 2 v_5
+git updated by git 2 v_7
 git updated again
 </form>
