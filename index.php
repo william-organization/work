@@ -8,4 +8,5 @@
 <label>Amount (in minor currency, i.e. &pound;12.34 = 1234)<br>
 <input type="text" name="Amount" value="1234"><br>
 <input type="submit" value="Continue">
+git updated by git2
 </form>
