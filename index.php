@@ -1,5 +1,5 @@
 
-<p>Enter your card details test</p>
+<p>Enter your card detail</p>
 <form action="process.php" method="post">
 <label>CardNumber</label><br>
 <input type="text" name="CardNumber" value="4929421234600821"><br>
